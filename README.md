@@ -1,4 +1,4 @@
-# Kapit-Kamay
+# ✨ Kapit-Kamay ✨
 
 ## 1. Project Idea
 - Website Name: Kapit Kamay 
